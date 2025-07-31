@@ -8,7 +8,7 @@ Voice-controlled AI assistant powered by Gemini AI.
 
 ## 📦 Repository
 
-[👉 GitHub – Ayushjha27/Nirog360]((https://github.com/shrutisahu16/AI-assistant.git))
+[👉 GitHub – shrutisahu16/AI-assistant]((https://github.com/shrutisahu16/AI-assistant.git))
 
 ---
 
