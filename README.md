@@ -20,6 +20,7 @@ Voice-controlled AI assistant powered by Gemini AI.
 
 
 ### 🔧 Backend
+- **AI:** **Gemini AI** 
 - **Node.js** with **Express.js**
 - **MongoDB** – NoSQL database for storing user information and virtual AI assistance.
 - **REST APIs** – For frontend-backend communication
@@ -29,3 +30,44 @@ Voice-controlled AI assistant powered by Gemini AI.
 ---
 🎥 Demo
 👉 👉 [Click here to watch the demo](https://virtual-assistant-frontend-5bqi.onrender.com/)
+
+## ✨ Features
+
+- 🎤 *Real-Time Voice Recognition*  
+  Speak to J.A.R.V.I.S and it will understand and act!
+
+- 🔎 *Voice Commands*  
+  Open or search Google, YouTube, Instagram, Facebook, and more using simple voice instructions.
+
+- 🧑‍🎨 *Customizable Avatar & Assistant Name*  
+  Personalize your AI assistant with your own name and image using Cloudinary & Multer.
+
+- 🔒 *Secure Login System*  
+  Authenticated using JWT tokens and password encryption via bcrypt.js.
+
+---
+
+
+## 🚀 How to Run Locally
+
+1. *Clone the Repository*
+   ```bash
+   git clone https://github.com/yourusername/AI-assistant.git
+   cd AI-assistant
+   
+2. Install Dependencies
+
+npm install   # For backend
+cd frontend
+npm install   # For frontend
+
+3. Setup Environment Variables
+Create .env files for both frontend and backend. Add your keys (Mongo URI, JWT secret, Cloudinary keys, etc.).
+
+4. Start the Project
+# Run backend
+npm start
+# In a new terminal, run frontend
+cd frontend
+npm start
+
