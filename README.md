@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:3rem;"> 🤖 J.A.R.V.I.S – Virtual AI Assistant</h1>
 
 <p align="center">
-Voice-controlled AI assistant powered by Gemini AI.
+🎙️ A voice-controlled virtual AI assistant built with Gemini AI and the MERN stack. Supports smart web commands, avatar customization, and secure login.
 </p>
 
 ---
